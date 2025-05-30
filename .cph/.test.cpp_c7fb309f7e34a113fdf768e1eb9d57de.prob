@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"d:\\software\\work\\VSCODE\\CODE\\test.cpp","tests":[{"id":1746004401971,"input":"5\na\nbb\naa\nabaa\nabaaa\nabaaabaa\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\software\\work\\VSCODE\\CODE\\test.cpp","group":"local","local":true}
