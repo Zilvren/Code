@@ -1,1 +1,0 @@
-{"name":"Local: main","url":"d:\\software\\work\\VSCODE\\CODE\\main.cpp","tests":[{"id":1743477050649,"input":"9 4\n5 3 8 1 4 6 9 2 7\n","output":"18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\software\\work\\VSCODE\\CODE\\main.cpp","group":"local","local":true}
